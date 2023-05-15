@@ -59,7 +59,16 @@ Subjectivity is a measure of how subjective or opinion-based a piece of text is,
    ```
 
 
-
+## Findings
+  
+  * The DateTime function returned a list of most web page creation date, although some are not 100% accurate because of the site update. 
+  
+  * The DateTime packkage can be used as an alternative to the Website validation Lego curated in the ODC Sandbox project since it returns both creation date and validity of the website with some other functionalities. 
+  
+  * After checking the validity of sites with creation less than 2017, I uncovered about 30% of them as flagged suspects.
+  
+  *
+  
 
 
 
