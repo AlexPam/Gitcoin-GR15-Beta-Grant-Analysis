@@ -16,7 +16,6 @@ This is an analysis for of the Gitcoin GR15 Beta round.
     </li>
     <li>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
