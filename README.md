@@ -20,7 +20,7 @@ This is an analysis for of the Gitcoin GR15 Beta round.
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#findings">Usage</a></li>
+    <li><a href="#findings">Findings</a></li>
  
 </details>
 
