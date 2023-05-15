@@ -33,10 +33,10 @@ The projects is an anlaysis of the Gitcoin GR15 Beta round. The aim of this anal
   1. HTML Date 
   2. TextBlob
   
-  1. HTML Date: 
+  * HTML Date: 
   The htmldate package is primarily designed to parse and extract the date from HTML content, specifically focusing on the <meta> tags and other relevant HTML elements where the creation or modification  date of a webpage might be specified. The package can be useful in extracting certain date-related information from HTML content, it's important to note that it relies on the presence and accuracy of such information within the HTML structure of a webpage. Using this package would give a near accurate estimate of when the website was created or last or last modified.
   
- 2. TextBlob
+ * TextBlob
   
 
 
